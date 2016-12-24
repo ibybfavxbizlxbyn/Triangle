@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482601631 source:c:\users\nikolay\desktop\programs\oop\triangle\main.cpp
+	"triangle.h"
+
+1482593259 c:\users\nikolay\desktop\programs\oop\triangle\triangle.h
+	<iostream>
+	<cmath>
+

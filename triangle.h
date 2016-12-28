@@ -35,7 +35,7 @@ public:
             this->c = c;
         } else
         {
-            cout << endl << "Error: No such triangle;" << endl;
+            cout << "Error: No such triangle;" << endl;
             cout << "Would you like to create default(3:4:5) triangle(y/n): ";
             char sym;
             cin >> sym;
